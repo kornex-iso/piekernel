@@ -1,6 +1,6 @@
 # Pie Kernel
 
-Tiny educational x86 kernel.
+Tiny  x86 kernel.
 
 ## Features
 
