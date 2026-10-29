@@ -1,17 +1,7 @@
-# Pie Kernel
+this project not gonna recive any futher updates 
 
-Tiny  x86 kernel.
 
-## Features
 
-- Boots on BIOS x86 systems
-- Displays text
-- Open source
+u can use this project freely without any permission
 
-## Status
-
-Alpha v0.1
-
-## License
-
-MIT
+thanks u
